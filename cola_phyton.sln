@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "cola_phyton", "cola_phyton\cola_phyton.pyproj", "{1C1EC6A6-2C0E-4A56-B256-62A21FD32B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C1EC6A6-2C0E-4A56-B256-62A21FD32B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1EC6A6-2C0E-4A56-B256-62A21FD32B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCBAEECB-9994-4E9C-A217-C7473D3E36F0}
+	EndGlobalSection
+EndGlobal
